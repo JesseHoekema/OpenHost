@@ -9,3 +9,7 @@ This is all for free, just fire up a docker container with OpenHost running on i
 1. Run ```docker pull jessiflessi/openhost``` in the terminal
 2. Run ```docker run -d -p 4545:4545 jessiflessi/openhost``` in the terminal
 3. Your done
+
+#
+
+Current Version: ```1.0```
