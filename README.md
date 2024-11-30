@@ -1,5 +1,8 @@
 # OpenHost
 
+### What is this?
+
+
 ### How to setup the container
 
 1. Run ```docker pull jessiflessi/openhost``` in the terminal
