@@ -1,7 +1,8 @@
 # OpenHost
 
 ### What is this?
-
+Host your html5 site on docker for free with OpenHost! You also get a simple modern dashboard where you can setup your site and see the system info. 
+This is all for free, just fire up a docker container with OpenHost running on it!
 
 ### How to setup the container
 
